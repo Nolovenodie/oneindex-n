@@ -10,7 +10,7 @@ class AdminController{
         <i class="mdui-list-item-icon mdui-icon material-icons" style="margin-left: 25px">message</i>
         <div class="mdui-list-item-content">Telegram</div>
     </a>
-    <a href="https://everking.xyz" class="mdui-list-item mdui-ripple">
+    <a href="https://ssky.me" class="mdui-list-item mdui-ripple">
         <i class="mdui-list-item-icon mdui-icon material-icons" style="margin-left: 25px">bubble_chart</i>
         <div class="mdui-list-item-content">Blog</div>
     </a>
